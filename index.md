@@ -1,9 +1,9 @@
 ## Welcome to my chess game
-There are multiple versions of this chess game you can play: Player vs. Player, and Player vs. Computer.
-**-Player vs. Player:**
-    -info bla bla
-**-Player vs. Computer:**
-    -info info
+There are multiple versions of this chess game you can play: Player vs. Player, and Player vs. Computer. <br />
+### **Player vs. Player:** <br />
+    - info bla bla <br />
+### **Player vs. Computer:** <br />
+    - info info <br />
 
 ### Markdown
 
