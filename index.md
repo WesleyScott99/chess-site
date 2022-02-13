@@ -1,10 +1,11 @@
 ## Welcome to my chess game
-
-We have bananaes.....an avacaides
+There are multiple versions of this chess game you can play: Player vs. Player, and Player vs. Computer.
+**-Player vs. Player:**
+    -info bla bla
+**-Player vs. Computer:**
+    -info info
 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
