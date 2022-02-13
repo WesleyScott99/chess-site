@@ -1,0 +1,20 @@
+{
+	"pvp": {
+		"name":"Player vs. Player",
+		"description":"This play option will allow you to play against another player remotely by sharing your username with the other player you wish to play against.",
+		"version":"0.1",
+    "max_players":2,
+		"launch":"game-options/pvp/",
+		"folder":"../public/game-options/pvp/",
+		"includes": ["js/pvp.js"],
+	},
+	"pvc": {
+		"name":"Player vs. Computer",
+		"description":"This play option will allow you to play against an AI.",
+		"version":"0.1",
+		"max_players":1,
+		"launch":"game-options/pvc/",
+		"folder":"../public/game-options/pvc/",
+		"includes": ["js/pvc"]
+	}
+}
